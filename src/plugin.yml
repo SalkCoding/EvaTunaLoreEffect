@@ -1,0 +1,6 @@
+name: EvaTunaLoreEffect
+version: 1.0.5-SNAPSHOT
+main: net.salkcoding.evatunaloreeffect.EvaTunaLoreEffect
+api-version: 1.14
+
+author: Salk_Coding
